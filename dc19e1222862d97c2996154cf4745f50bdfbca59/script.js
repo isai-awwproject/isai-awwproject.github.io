@@ -7,7 +7,7 @@ window.setInterval(function() {
 
 const typewriterhello = new Typewriter('#typewriterhello', {
   loop: false,
-  delay:1,
+  delay:100,
   deleteSpeed:20
 });
 
