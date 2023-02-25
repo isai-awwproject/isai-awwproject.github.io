@@ -86,7 +86,7 @@ typewriterhello.pauseFor(2000)
           .pauseFor(1000)
           .typeString('<br><br> <a href="https://mypoeticside.com/show-poem-160572" target="_blank">mypoeticside.com/show-poem-to-my-dear-isai</a>')
           .pauseFor(1000)
-          .typeString('<br><br> <a href="https://www.poetry.com/poem/152049/to-my-dear-isai%2C" target="_blank">www.poetry.com/poem/152049/to-my-dear-isai</a>')
+          .typeString('<br><br> <a href="https://www.poetry.com/poem/152049/to-my-dear-isai%2C" target="_blank">poetry.com/poem/152049/to-my-dear-isai</a>')
           .pauseFor(18500)
           .start();
         
